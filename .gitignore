@@ -1,0 +1,8 @@
+creds.txt
+backup.log
+my_terminal_session.log
+azcopy_linux_amd64_10.28.0
+Terraform/terraform.tfvars
+Terraform/terraform.tfstate
+Terraform/terraform.tfstate.backup
+Terraform/.terraform.lock.hcl
