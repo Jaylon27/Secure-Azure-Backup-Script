@@ -1,4 +1,4 @@
- Secure Azure Backup Script
+ # Secure Azure Backup Script
 
 This project provides a secure and automated way to back up financial data to Azure Blob Storage. It ensures that sensitive data is compressed, encrypted, and uploaded to the cloud, providing a reliable backup solution.
 
